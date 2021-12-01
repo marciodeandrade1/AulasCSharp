@@ -1,0 +1,7 @@
+C:\Labs\AulasCSharp\Aula3\bin\Debug\Aula3.exe.config
+C:\Labs\AulasCSharp\Aula3\bin\Debug\Aula3.exe
+C:\Labs\AulasCSharp\Aula3\bin\Debug\Aula3.pdb
+C:\Labs\AulasCSharp\Aula3\obj\Debug\Aula3.csproj.AssemblyReference.cache
+C:\Labs\AulasCSharp\Aula3\obj\Debug\Aula3.csproj.CoreCompileInputs.cache
+C:\Labs\AulasCSharp\Aula3\obj\Debug\Aula3.exe
+C:\Labs\AulasCSharp\Aula3\obj\Debug\Aula3.pdb
