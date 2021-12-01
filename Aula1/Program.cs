@@ -10,6 +10,8 @@ namespace Aula1
     {
         static void Main(string[] args)
         {
+            //imprime mensagem no console
+            Console.WriteLine("Olá mundo");
         }
     }
 }
